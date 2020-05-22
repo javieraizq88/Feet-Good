@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lora&family=Raleway:wght@900&display=swap');
+
+.team-cards {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin: auto;
+}
+ 
+
+#adminprofile{
+    background-color: rgb(243, 240, 236);
+}
+
+.contact-card {
+    height:300px;
+    width: 800px;
+    margin: auto;
+}
+.square {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    object-fit: cover;
+}
+.font {
+    font-family: 'Dancing Script', cursive;
+}
+.font2 {
+    font-family: 'Lora', serif;
+}
+.font3 {
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    background-color: aliceblue;
+    font-family: 'Lora', serif; 
+
+}
+.homeImg {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border: none;
+    border-radius: 10%;
+}
+.homeCard {
+    border: none;
+}
+.navColor {
+    background-color:rgb(30, 155, 177);
+}
+
+#imagen-carrucel-1{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    
+}
+
+#profile-edit-avatar{
+    border: none;
+    background-color: rgba(1, 1, 1, 0)
+}
